@@ -368,9 +368,8 @@ $this->params['breadcrumbs'][] = $this->title;
             let pin = document.getElementById('pin')
             console.log(pin)
             pin.classList.add('active')
-            window.location.href = 'https://youtube.com';
+            window.location.href = '';
         }            
     })
 
-    // window.location.href = 'URL2';
 </script>
